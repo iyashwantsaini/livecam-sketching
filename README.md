@@ -20,3 +20,4 @@ OpenCV , Numpy
 # Running code 
 1. install OpenCV , Numpy
 2. run the script using following command : python webcamsketch.py
+3. press ENTER to exit the app.
