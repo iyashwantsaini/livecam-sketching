@@ -21,3 +21,8 @@ OpenCV , Numpy
 1. install OpenCV , Numpy
 2. run the script using following command : python webcamsketch.py
 3. press ENTER to exit the app.
+
+![Output](output.png)
+
+You can learn the steps of creating this appliction in the article which i have written :
+https://iq.opengenus.org/developing-a-live-sketching-app-using-opencv-and-python/
